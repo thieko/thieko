@@ -7,7 +7,7 @@ Desenvolvedor dedicado com 9 anos de experiência. Programando diversos tipos de
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thieko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thieko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 ### 📋 Languages
 <div>
